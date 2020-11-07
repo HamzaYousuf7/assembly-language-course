@@ -12,3 +12,5 @@ In the read me file I'm going to list all the question and you can find their an
 ## LIST of Question
 
 Question #1: write a program to subtract two numbers with the help of ASCII codes
+
+Question #2:: Write a program to print your name character by character.
