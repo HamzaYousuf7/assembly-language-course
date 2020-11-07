@@ -17,3 +17,6 @@ Question #2:: Write a program to print your name character by character.
 
 Question #3: write a program that takes input of single character and print it
 using linefeed
+
+Question #4: write a program that take  uppercase capital letter and convert it to lowercase
+using ASCII code
