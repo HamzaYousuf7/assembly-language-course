@@ -20,3 +20,7 @@ using linefeed
 
 Question #4: write a program that take  uppercase capital letter and convert it to lowercase
 using ASCII code
+
+Question #5: Write a program that prints a character 100 times using loop.
+
+Question #6: To print all ASCII Characters.
