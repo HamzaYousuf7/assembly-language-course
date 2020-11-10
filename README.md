@@ -24,3 +24,5 @@ using ASCII code
 Question #5: Write a program that prints a character 100 times using loop.
 
 Question #6: To print all ASCII Characters.
+
+Question #7: Write a program that prints STRINGS in new line using loop.
