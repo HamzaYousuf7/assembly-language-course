@@ -2,7 +2,7 @@
 
 ## About this repo
 
-I Have create this repo to help students understant assembly language. Here I'm going to post all the task along with their answer
+I Have create this repo to help students understan assembly language. Here I'm going to post all the task along with their answer
 
 ## How this work
 
@@ -26,3 +26,5 @@ Question #5: Write a program that prints a character 100 times using loop.
 Question #6: To print all ASCII Characters.
 
 Question #7: Write a program that prints STRINGS in new line using loop.
+
+Question #8: To create a program for Exchange the value between different registers.
