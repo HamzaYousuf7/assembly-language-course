@@ -31,4 +31,4 @@ Question #8: To create a program for Exchange the value between different regist
 
 Question #9: Input two value and  Exchange thier value
 
-Question #7: Write a program for decrement loop 
+Question #10: Write a program for decrement loop 
