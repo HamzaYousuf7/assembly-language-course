@@ -34,6 +34,8 @@ Question #9: Input two value and  Exchange thier value
 Question #10: Write a program for decrement loop 
 
 Question #11: Create this format using Assembly Program
+    
+    
     Name:
     Input Name from User
 
@@ -45,3 +47,5 @@ Question #11: Create this format using Assembly Program
 
     Institute Name:
     Input Institute Name
+
+Question #12:Write a program that prints a character 100 times using loop
