@@ -34,14 +34,14 @@ Question #9: Input two value and  Exchange thier value
 Question #10: Write a program for decrement loop 
 
 Question #11: Create this format using Assembly Program
-Name:
-Input Name from User
+    Name:
+    Input Name from User
 
-Father Name
-Input father Name
+    Father Name
+    Input father Name
 
-Roll No:
-Input roll No:
+    Roll No:
+    Input roll No:
 
-Institute Name:
-Input Institute Name
+    Institute Name:
+    Input Institute Name
