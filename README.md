@@ -1,8 +1,8 @@
-# Assembly langauge Course
+# Assembly language Course
 
 ## About this repo
 
-I Have create this repo to help students understan assembly language. Here I'm going to post all the task along with their answer
+I Have create this repo to help students understand assembly language. Here I'm going to post all the task along with their answer
 
 ## How this work
 
@@ -29,7 +29,7 @@ Question #7: Write a program that prints STRINGS in new line using loop.
 
 Question #8: To create a program for Exchange the value between different registers.
 
-Question #9: Input two value and  Exchange thier value
+Question #9: Input two value and  Exchange their value
 
 Question #10: Write a program for decrement loop 
 
