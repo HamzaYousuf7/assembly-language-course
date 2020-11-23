@@ -54,4 +54,11 @@ Question #13: To print all  CAP Letter  BY ASCII.
 
 Question #14: Write a program that prints STRINGS in new line using loop.
 
-Question 15: test 
+Question #15: print this pattern in assembly language
+
+
+    *****
+    ****
+    ***
+    **
+    *
