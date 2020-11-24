@@ -61,3 +61,12 @@ Question #15: print this pattern in assembly language
     *
 
 Question #16: Print only odd number using loop in (1 - 10)
+
+
+Question #17: print this pattern in assembly language
+
+    *
+    **
+    ****
+    *****
+    ******
