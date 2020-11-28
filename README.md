@@ -68,3 +68,5 @@ Question #17: print this pattern in assembly language
     ****
     *****
     ******
+
+Question #18: take two number input from the user and add them
