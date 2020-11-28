@@ -10,7 +10,7 @@ In the read me file I'm going to list all the questions and you can find their a
 
 ## LIST of Question
 
-Question #1: write a program to subtract two numbers with the help of ASCII codes
+Question #1: write a program to add two numbers with the help of ASCII codes
 
 Question #2: Write a program to print your name character by character.
 
