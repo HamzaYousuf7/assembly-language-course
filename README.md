@@ -73,3 +73,5 @@ Question #18: take two number input from the user and add them
 
 
 Question #19:  Write a Program to Display ASCII characters from A to Z through Looping.
+
+Question #20:  Write a Program to Display ASCII characters from a to z through Looping.
