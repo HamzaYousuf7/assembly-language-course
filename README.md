@@ -77,3 +77,5 @@ Question #19:  Write a Program to Display ASCII characters from A to Z through L
 Question #20:  Write a Program to Display ASCII characters from a to z through Looping.
 
 Question #21:   Write a Program to Display ASCII characters from Z to A through Looping.
+
+Question #22:   Write a Program to Display ASCII characters from 0 to 9 through
