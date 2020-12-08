@@ -87,3 +87,5 @@ Question #24:   Write a Program to Display ASCII characters from A-Z and z-a thr
 Question #25:   Write a program in Assembly Language to print following pattern:
     
     0iiiiii0iiiiii0iiiiii0iiiiii0
+
+Question #26:   Write program that takes user input and check whether that number is prime or not and run until the user enter 0
